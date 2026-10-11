@@ -15,3 +15,5 @@ Production Rust code, shared types, runtime/model execution and the CLI stay in 
 Before implementation, open a scoped task with input/output contracts, an exact core revision, meaningful failure cases, dependency inventory and named execution targets. Replace the documentation-only source guard with suitable tests in the same PR that introduces implementation. Documentation CI is not runtime or hardware evidence.
 
 Use [CONTRIBUTING](CONTRIBUTING.md) and [AGENTS](AGENTS.md). Keep private data, credentials, operational records and model weights outside Git. Public artifacts need their own approved storage, provenance and license decision; no store or service is provisioned here. Distribution license selection is pending.
+
+Track scoped work through the [47-Goal issue/milestone index](https://github.com/eylema-dev/devguide/blob/main/docs/en/github-work-management.md). Planning labels and a prepared protection request grant no authority or enforced branch rule; accepted deliveries need current CI, a separate exact-head review and the maintainer decision.
