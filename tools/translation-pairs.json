@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "purpose": "Reviewed local bytes; split product translations are paired and pinned in devguide/tools/repository-set.json. Hashes do not prove semantic equivalence.",
+  "pairs": [
+    {
+      "en": "README.md",
+      "tr": "README.tr.md",
+      "en_sha256": "a43334f330a7edf2c899026907098b28e2a58d25baabe9d7eef4d4d5d3362c02",
+      "tr_sha256": "4b7602b784341731b5850531152650c4c951ddd82b282aa7628e424d04e1832a"
+    },
+    {
+      "en": "CONTRIBUTING.md",
+      "tr": "CONTRIBUTING.tr.md",
+      "en_sha256": "a87b5780774f1e025850e61d8ca2e775e62489c37f3083ba7d0c2138a27d332a",
+      "tr_sha256": "a8805cf7f63295fd6c08d02aefdf110d9b11cef6cda2d7fede2b582b73391f0e"
+    },
+    {
+      "en": "profile/README.md",
+      "tr": "profile/README.tr.md",
+      "en_sha256": "32c09bd317e0057dc3cf44747b871bdf24f98e031832a4e871d43debc4a23d83",
+      "tr_sha256": "0364082fcb495a3746640c5ae55b803967c8bbfc763f34e368d020c22a438662"
+    }
+  ],
+  "documents": []
+}
