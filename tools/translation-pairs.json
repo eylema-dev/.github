@@ -5,20 +5,20 @@
     {
       "en": "README.md",
       "tr": "README.tr.md",
-      "en_sha256": "09afb25a517b11a7da797066026bbb9c7b14e1a354fa07910a689343b56f6a3f",
-      "tr_sha256": "7e6f4c2ac89fd33a2dd72a9c29105fec3a13ec36f770c9d2fb09c2b95ce78448"
+      "en_sha256": "b15fb7b85e18b4e2f63edfd08f381809585e80d5abd47031db13be4795032f4c",
+      "tr_sha256": "ac6b61f311a8ef7ed6d5c95ac0390316f0f9ee9ecdf2083e01ecafa709c9fc52"
     },
     {
       "en": "CONTRIBUTING.md",
       "tr": "CONTRIBUTING.tr.md",
-      "en_sha256": "0bed36b736feabe60c6311d4e49f042dba7e85373ed3c84b072942f1a58796ac",
-      "tr_sha256": "b74986e543d17d6daea3e7a9bb11acafc78da65d9d60d0d281160320c626dea3"
+      "en_sha256": "7425d150beef8afc7fb20f37eeb2d107cbbbe4bc014cf028e4409de5eea8565a",
+      "tr_sha256": "6ca306eb6d8a474595fa52edc88192ffbc136ec8cf0ab0176f12087f91681aff"
     },
     {
       "en": "profile/README.md",
       "tr": "profile/README.tr.md",
-      "en_sha256": "32c09bd317e0057dc3cf44747b871bdf24f98e031832a4e871d43debc4a23d83",
-      "tr_sha256": "0364082fcb495a3746640c5ae55b803967c8bbfc763f34e368d020c22a438662"
+      "en_sha256": "45ae74b2f7ada7e5b15505a531b5f4006e931145afde53b0088ef2e8ad4b0483",
+      "tr_sha256": "cde1bfadd1aaacde0c48c36584d39d919a8105af14ed4759d1b1bfc7ad239827"
     }
   ],
   "documents": []
