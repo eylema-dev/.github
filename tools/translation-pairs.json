@@ -5,8 +5,8 @@
     {
       "en": "README.md",
       "tr": "README.tr.md",
-      "en_sha256": "b15fb7b85e18b4e2f63edfd08f381809585e80d5abd47031db13be4795032f4c",
-      "tr_sha256": "ac6b61f311a8ef7ed6d5c95ac0390316f0f9ee9ecdf2083e01ecafa709c9fc52"
+      "en_sha256": "3cdcc0b3f9cd447052c5c85d82e7e674f8d22896e747c5d305d5f26f133ee461",
+      "tr_sha256": "c91f0f033a4f81837056532a06c33cc805fe48143cb207f71b1c51612c49f6df"
     },
     {
       "en": "CONTRIBUTING.md",
@@ -17,8 +17,8 @@
     {
       "en": "profile/README.md",
       "tr": "profile/README.tr.md",
-      "en_sha256": "45ae74b2f7ada7e5b15505a531b5f4006e931145afde53b0088ef2e8ad4b0483",
-      "tr_sha256": "cde1bfadd1aaacde0c48c36584d39d919a8105af14ed4759d1b1bfc7ad239827"
+      "en_sha256": "4ea6e865b87ba618b26c3e2260ad50a1efa099451fd07baafe521f576c083f50",
+      "tr_sha256": "36181578cbba7c178f6c769305dcd7063ce9ad5e4bf1b39d8ed0227bf7b9b266"
     }
   ],
   "documents": []
